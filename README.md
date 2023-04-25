@@ -1,6 +1,17 @@
 # Tarjeta de crédito válida
 
+##Presentación de Proyecto
+
+Esta DEMO es para que las personas adultas mayores que no desean realizar pagos por internet por no ssaber usarlo adecuadamente, logren familiarizarse con  las partes de una Tarjeta de Crédito y así puedan realizar sus compras y pagos de servicios desde la comodidad de su hogar. Esta DEMO está diseñada para acompañar al usuario paso a paso en realizar su pago. Se recomienda el acompañamiento de un conocido o familiar en este proceso, de esta manera se logrará que el usuario haga uso posteriores de paltaformas similares.
+
+#Objetivos para la adquisición de la DEMO
+
+* [1.- Captar clientes en un nuevo rango de edad.]
+* [2.- Capacitación constante a  los clientes mediante la DEMO.]
+* [3.-  Brindar seguridad y confianza al adquirir el nuevo producto.]
+
 ## Índice
+
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
@@ -33,9 +44,7 @@ la suma de sus dígitos finales es un múltiplo de 10.
 
 En este proyecto tendrás que construir una aplicación web que le permita a un
 usuario validar el número de una tarjeta de crédito. Además, tendrás que
-implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
-
+implementar funcionalidad para ocultar todos los dígitos de una tarjeta menoslos ltimos cuatro
 La temática es libre. Tú debes pensar en qué situaciones de la vida real se
 necesitaría validar una tarjeta de crédito y pensar en cómo debe ser esa
 experiencia de uso (qué pantallas, explicaciones, mensajes, colores, ¿marca?)
