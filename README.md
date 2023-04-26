@@ -1,17 +1,26 @@
-# Tarjeta de crédito válida
 
-##Presentación de Proyecto
+<h1 style="font size: 25px; align: center;">Tarjeta de crédito válida</h1>
 
-Esta DEMO es para que las personas adultas mayores que no desean realizar pagos por internet por no ssaber usarlo adecuadamente, logren familiarizarse con  las partes de una Tarjeta de Crédito y así puedan realizar sus compras y pagos de servicios desde la comodidad de su hogar. Esta DEMO está diseñada para acompañar al usuario paso a paso en realizar su pago. Se recomienda el acompañamiento de un conocido o familiar en este proceso, de esta manera se logrará que el usuario haga uso posteriores de paltaformas similares.
+<h2 style="color: white; font size: 20px;">Presentación de Proyecto</h2>
 
-#Objetivos para la adquisición de la DEMO
+<p>Esta <strong>DEMO</strong> es para que las personas adultas mayores que no desean realizar pagos por internet por no ssaber usarlo adecuadamente, logren familiarizarse con  las partes de una Tarjeta de Crédito y así puedan realizar sus compras y pagos de servicios desde la comodidad de su hogar. Esta DEMO está diseñada para acompañar al usuario paso a paso en realizar su pago. Se recomienda el acompañamiento de un conocido o familiar en este proceso, de esta manera se logrará que el usuario haga uso posteriores de paltaformas similares.</p>
 
-* [1.- Captar clientes en un nuevo rango de edad.]
-* [2.- Capacitación constante a  los clientes mediante la DEMO.]
-* [3.-  Brindar seguridad y confianza al adquirir el nuevo producto.]
+<h2>Objetivos para la adquisición de la <strtong>DEMO</strong></h2>
+
+* 1.- Captar clientes en un nuevo rango de edad.
+* 2.- Capacitación constante a  los clientes mediante la DEMO.
+* 3.-  Brindar seguridad y confianza al adquirir el nuevo producto.
+
+<h2>Prototipo de Proyecto</h2>
+
+<img src="./src/image/prototipo-card-validation.jpg">
+
+
+Link de avance semanal de proyecto
+
+<a href="https://trello.com/invite/b/tj91YLcu/ATTI421f53d917fca3edbfb520d6cce701a6B73BB87A/untitled-board">Avance semanal</a>
 
 ## Índice
-
 
 * [1. Preámbulo](#1-preámbulo)
 * [2. Resumen del proyecto](#2-resumen-del-proyecto)
